@@ -19,7 +19,7 @@
 .logo{
     width: 15%;
     margin-left: 20px;
-    /* background-color: chocolate; */
+    border-right: 1px solid white;
     
 }
 .menu{
